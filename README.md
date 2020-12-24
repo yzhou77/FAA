@@ -19,6 +19,9 @@ ng serve --port 4200
 ```
 Then open your browser on http://120.0.0.1:4200/ you can use the app. Suggest use Chrome to get better view.
 
+#### Online Testing address: 
+https://yzhou77.github.io/FAA/
+
 ## Test User Accounts
 The APP automatically generates 1 admin account and 5 user accounts for testing.
 
