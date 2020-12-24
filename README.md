@@ -15,14 +15,12 @@ npm install -g json-server
 ```
 ng serve --port 4200
 ```
-Then open your browser on http://120.0.0.1:4200/ you can use the app. 
-
-Suggest use Chrome to get better view.
+Then open your browser on http://120.0.0.1:4200/ you can use the app. Suggest use Chrome to get better view.
 
 ### Test User Accounts
 The APP automatically generates 1 admin account and 5 user accounts for testing.
 
-You can click the `LOGIN` button on top-right of the APP UI to login with these test accounts. Or your can click the `REGISTER` button on top-right of the APP UI to create your own account.
+You can click the `LOGIN` button on top-right of the APP UI to login with these test accounts. Or your can click the `REGISTER` button to create your new account.
 
 There are two types of users in the app: admin and regular user.
 
