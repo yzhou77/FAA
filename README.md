@@ -1,5 +1,7 @@
 # FAA NOTAM Developer Portal UI Prototype
 ## Install APP
+Go to the directory of the APP folder `FAA`, open the Terminal and type in the commands below.
+
 1. Install basic packages
 ```
 npm install
